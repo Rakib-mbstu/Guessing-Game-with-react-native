@@ -4,7 +4,7 @@ import StartGameScreen from './screens/StartGameScreen';
 
 export default function App() {
   return (
-    <View style={styles.container}>
+    <View >
       <StartGameScreen />
       <StatusBar style="auto" />
     </View>
